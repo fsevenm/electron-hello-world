@@ -9,6 +9,6 @@
   "author": "Ayub Aswad",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^7.1.10"
+    "electron": "^15.5.5"
   }
 }
